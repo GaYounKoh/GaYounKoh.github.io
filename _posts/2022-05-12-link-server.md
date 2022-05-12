@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 서버연결
-description: To do
+description: tutorial
 image:
-categories: [thanks to guri]
-tags: [server, linux, terminal, github, git_blog, githubio, markdown, md, post]
+categories: [tutorial]
+tags: [server, linux, terminal, github, git_blog, githubio, markdown, md, post, guri]
 ---
 
 # [서버 - git 연결 과정]

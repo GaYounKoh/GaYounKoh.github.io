@@ -1,7 +1,7 @@
 ---
 layout: post
 title: refs for dsml activities (~220105)
-description: To do
+description: refs
 image:
 categories: [refs]
 tags: [github, git_blog, githubio, markdown, md, post]
