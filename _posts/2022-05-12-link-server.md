@@ -1,10 +1,10 @@
 ---
 layout: post
-title: refs for dsml activities (~220105)
+title: 서버연결
 description: To do
 image:
-categories: [refs]
-tags: [github, git_blog, githubio, markdown, md, post]
+categories: [thanks to guri]
+tags: [server, linux, terminal, github, git_blog, githubio, markdown, md, post]
 ---
 
 # [서버 - git 연결 과정]
