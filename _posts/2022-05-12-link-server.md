@@ -23,6 +23,9 @@ tags: [server, linux, terminal, github, git_blog, githubio, markdown, md, post, 
 13. 명령어 [git clone 클론한 레포 주소]
 14. 명령어 [git init] ;;;(.git 폴더 (숨겨져있음) 생성하는 코드, 클론 하면 자동 생김.)
 
+## 리눅스에서는 파일명에 특수문자, 공백, 한글 쓰면 파일을 읽을 수 없음.
+
+
 ## [.git 폴더 보이게 설정하기] <br>
 1. ctrl + shift + p 해서 명령팔레트 열어서 settings 검색해서 preferrence open user settings 들어가기
 2. 검색창에 exclude 검색
