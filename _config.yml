@@ -19,6 +19,7 @@ BASE_PATH : http://GaYounKoh.github.io
 # site settings
 title : gayoun`s uno-dbyll
 future: true
+description: TMI 인간을 위한 블로그입니다.
 
 
 author:
