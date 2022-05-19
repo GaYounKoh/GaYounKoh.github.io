@@ -18,13 +18,15 @@ BASE_PATH : http://GaYounKoh.github.io
 
 # site settings
 title : gayoun`s uno-dbyll
-future: true
 description: "TMI 인간을 위한 블로그입니다.🥴"
+
+# update error
+future: true
 
 
 author:
   name: GaYounKoh
-  role: Jekyll Theme
+  role: TMI 인간
   email: imgayoun0@gmail.com
   github: GaYounKoh
   twitter: 
