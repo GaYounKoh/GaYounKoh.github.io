@@ -16,9 +16,9 @@ tags_path : tags.html
 
 BASE_PATH : http://GaYounKoh.github.io
 
-
+# site settings
 title : gayoun`s uno-dbyll
-
+future: true
 
 
 author:
