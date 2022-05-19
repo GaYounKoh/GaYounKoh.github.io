@@ -38,6 +38,3 @@ blabla
 25. [mint](https://github.com/jeffreytse/jekyll-theme-yat)
 26. [dark_light](https://github.com/cotes2020/jekyll-theme-chirpy)
 27. [cool](https://github.com/mmistakes/minimal-mistakes)
-28. []()
-29. []()
-30. []()
