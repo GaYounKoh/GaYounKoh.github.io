@@ -79,4 +79,6 @@ blabla<br>
 
 
 
-[참고2.5 font의 weight](https://mygumi.tistory.com/205)
+[참고2.5 font의 weight](https://mygumi.tistory.com/205) <br>
+
+[참고5 css 파일 형식 참고](https://velog.io/@chaerin00/CSS-local-font) <Br>
