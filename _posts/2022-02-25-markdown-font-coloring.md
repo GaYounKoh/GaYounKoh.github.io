@@ -3,7 +3,7 @@ title:  "Markdown font coloring"
 excerpt: "Markdown coloring code"
 
 categories:
-  - Blog
+  - markdown tips
 tags:
   - Blog
 last_modified_at: 2022,03.03. 17:48:00

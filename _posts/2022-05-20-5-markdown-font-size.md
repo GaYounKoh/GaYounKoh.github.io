@@ -50,6 +50,8 @@ This is default size.<br>
 <span style = 'font-family : 새굴림'>새굴림</span> <br>
 <span style = 'font-family : Arial'>Arial 적용됨</span> <br>
 
+<span style = 'font-family : 나눔스퀘어'>나눔스퀘어??????</span> <br>
+
 <br>
 
 [참고1 font coloring도 font 태그로 가능](https://klahan.tistory.com/59) <br>
@@ -70,5 +72,7 @@ This is default size.<br>
     }
 
 blabla<br>
+
+
 
 [font의 weight](https://mygumi.tistory.com/205)
