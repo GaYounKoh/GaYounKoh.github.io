@@ -4,6 +4,7 @@ layout: category
 permalink: /categories/dailylog/
 author_profile: true
 sidebar_main: true
+taxonomy: Daily log
 ---
 
 
