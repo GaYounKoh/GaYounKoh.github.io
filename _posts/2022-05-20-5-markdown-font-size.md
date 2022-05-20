@@ -19,10 +19,11 @@ This is default size.<br>
 <font color='red'> font color = 'red' </font> <br>
 
 <font size = 4, color = 'Yellow'> size = 4, color = 'Yellow'</font> <br>
+<br>
 
-<font face = '돋움'> face = '돋움 적용됨' </font> <br>
-<font face = '궁서'> face = '궁서 적용됨' </font> <br>
-<font face = 'serif'> face = 'serif 적용됨' </font> <br>
+<font face = '돋움'> face = '돋움 적용됨' </font>
+<font face = '궁서'> face = '궁서 적용됨' </font>
+<font face = 'serif'> face = 'serif 적용됨' </font>
 <font face = 'Helvetica'> face = 'Helvetica 적용됨' </font> <br>
 
 
