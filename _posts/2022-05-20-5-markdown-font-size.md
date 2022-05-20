@@ -10,9 +10,10 @@ tags: [github, git_blog, githubio, markdown, md, post, markdown tips]
 
 This is default size.<br>
 
-<font size = 4> \<font size = 4> </font>
+<font size = 4> font size = 4 </font> <br>
 
-** '\\' 는 코드에 쓰이는 것들이 문자로 쓰이게 해줌.
+** '\\' 는 코드에 쓰이는 것들이 문자로 쓰이게 해줌. <br>
+<br>
 
 
 <font color='red'> \<font color = 'red'> </font> <br>
