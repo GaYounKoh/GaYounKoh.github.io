@@ -28,7 +28,7 @@ This is default size.<br>
 <br>
 
 
-<p><font size = 4; color = 'Orange'; face = 'serif'> > p_tag <br> > font_tag <br> size = 4; color = 'Orange'; face = 'serif' </font></p> <br>
+<p><font size = 4; color = 'Orange'; face = 'serif'> p_tag)) font_tag)) size = 4; color = 'Orange'; face = 'serif' </font></p> <br>
 
 
 
@@ -54,6 +54,7 @@ This is default size.<br>
 
 <br>
 
+<br>
 
 [참고1 font coloring도 font 태그로 가능](https://klahan.tistory.com/59) <br>
 [참고2 굵기, 캡션, 줄간격..., 폰트도 존재](https://ojji.wayful.com/2015/03/HTML-How-to--Set-FONT-Size-Color-Weight-Family-Variant-Line-Height-ect.html) <br>
