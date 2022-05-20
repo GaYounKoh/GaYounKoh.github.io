@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: blog 대문
+title: blog category
 description: blog DIY
 image:
 categories: [blog DIY]
