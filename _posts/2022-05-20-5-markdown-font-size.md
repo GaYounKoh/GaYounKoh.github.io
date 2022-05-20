@@ -16,7 +16,7 @@ This is default size.<br>
 <br>
 
 
-<font color='red'> \<font color = 'red'> </font> <br>
+<font color='red'> font color = 'red' </font> <br>
 
 <font size = 4, color = 'Yellow'> size = 4, color = 'Yellow'</font> <br>
 
