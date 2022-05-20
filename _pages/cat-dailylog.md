@@ -1,7 +1,7 @@
 ---
 title: "daily log"
 layout: archive
-permalink: categories/dailylog
+permalink: /categories/dailylog/
 author_profile: true
 sidebar_main: true
 ---
