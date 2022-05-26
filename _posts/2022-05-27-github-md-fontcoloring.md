@@ -22,7 +22,13 @@ To create a list of any colors you like: <br>
 [Color unicode?](https://placehold.it/150/ffffff/ff0000?text=hello) <br>
 
 You can use the diff language tag to generate some colored text: <br>
-```diff - text in red + text in green ! text in orange # text in gray @@ text in purple (and bold)@@ ```  <br>
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```  <br>
 However, it adds it as a new line starting with either - + ! # or starts and ends with @@ <br>
 
 
