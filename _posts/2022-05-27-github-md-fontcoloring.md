@@ -28,7 +28,8 @@ You can use the diff language tag to generate some colored text: <br>
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@
-```  <br>
+``` 
+<br>
 However, it adds it as a new line starting with either - + ! # or starts and ends with @@ <br>
 
 
