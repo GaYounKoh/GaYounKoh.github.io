@@ -1,3 +1,14 @@
+---
+published: true
+layout: post
+title: github md font coloring
+description: github md font coloring
+image:
+categories: [markdown tips]
+tags: [github, git_blog, githubio, markdown, md, post, markdown tips]
+---
+
+
 [How to color the github font](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file) <br>
 
 One way to add color to a README is by utilising a service that provides placeholder images. <br>
