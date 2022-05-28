@@ -18,8 +18,8 @@ terminal warning: Branch 'test_branch' set up to track remote branch 'test_branc
 <br>
 
 <!-- <img src="/assets/media/2022-05-29-5-(2).png" width="85%"/> -->
-<img src="{{page.image1}}" width="85%"/>
-<!-- The 'GaYounKoh/gayounkoh.github.io' repository doesn't contain the '_posts/{{page.image2}}' path in 'gh-pages'. 이런 에러가 뜬다 -->
+<img src="{{page.image2}}" width="85%"/>
+<!-- The 'GaYounKoh/gayounkoh.github.io' repository doesn't contain the '_posts/{{page.image2}}' path in 'gh-pages'. 이런 에러가 뜬다, 잘 되긴 한다. -->
 <!--<img src="{{page.image}}" width="85%"/>-->
 <br>
 <br>
