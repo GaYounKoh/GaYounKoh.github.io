@@ -12,7 +12,7 @@ terminal warning: Branch 'test_branch' set up to track remote branch 'test_branc
 <br>
 
 <img src="{{page.image[0]}}" width="85%"/>
-<!--><img src="/images/logo.png" width="50%" height="50%"><!>
+<!--<img src="/images/logo.png" width="50%" height="50%">-->
 <br>
 <br>
 
@@ -21,3 +21,5 @@ terminal warning: Branch 'test_branch' set up to track remote branch 'test_branc
 <br>
 
 [github 이미지 업로드](https://hyeonjiwon.github.io/blog/markdown_img/) <br>
+[git blog에 이미지 업로드 tip](https://cnu-jinseop.tistory.com/21) <br>
+[지킬 포스팅에 이미지 첨부하는 방법 총체적 정리](https://blog.jaeyoon.io/2017/12/jekyll-image.html) <br>
