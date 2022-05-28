@@ -12,6 +12,7 @@ terminal warning: Branch 'test_branch' set up to track remote branch 'test_branc
 <br>
 
 <img src="{{page.image[0]}}" width="85%"/>
+<!--><img src="/images/logo.png" width="50%" height="50%"><!>
 <br>
 <br>
 
