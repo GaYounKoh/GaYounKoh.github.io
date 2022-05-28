@@ -11,12 +11,13 @@ tags: [github, git_blog, githubio, git, git_organization]
 terminal warning: Branch 'test_branch' set up to track remote branch 'test_branch' from 'origin'. <br>
 <br>
 
-<img src="{{page.image[0]}}" width="85%"/>
+<img src="{page.image[0]}" width="85%"/>
 <!--<img src="/images/logo.png" width="50%" height="50%">-->
 <br>
 <br>
 
-<img src="{{page.image[1]}}" width="85%"/>
+<img src="{page.image[1]}" width="85%"/>
+<!--<img src="{{page.image}}" width="85%"/>-->
 <br>
 <br>
 
