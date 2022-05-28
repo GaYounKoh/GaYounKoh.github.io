@@ -9,3 +9,8 @@ tags: [github, git_blog, githubio, git, git_organization]
 ---
 
 terminal warning: Branch 'test_branch' set up to track remote branch 'test_branch' from 'origin'. <br>
+<br>
+
+<img src="{{page.image}}" width="85%"/>
+<br>
+<br>
