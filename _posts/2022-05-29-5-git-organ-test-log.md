@@ -23,6 +23,7 @@ terminal warning: Branch 'test_branch' set up to track remote branch 'test_branc
 <br>
 <br>
 
+
+[지킬 포스팅에 이미지 첨부하는 방법 총체적 정리 - 맘에 듦](https://blog.jaeyoon.io/2017/12/jekyll-image.html) <br>
 [github 이미지 업로드](https://hyeonjiwon.github.io/blog/markdown_img/) <br>
 [git blog에 이미지 업로드 tip - GUI 방식](https://cnu-jinseop.tistory.com/21) <br>
-[지킬 포스팅에 이미지 첨부하는 방법 총체적 정리](https://blog.jaeyoon.io/2017/12/jekyll-image.html) <br>
