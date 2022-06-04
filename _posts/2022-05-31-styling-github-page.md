@@ -18,12 +18,12 @@ tags: [github, git_blog, githubio, post, github tips]
 [[refined-github] 깃헙 페이지 통으로 바꿔서 꾸미기](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf/related) <br>
 > [[refined-github] 깃헙 공식 문서](https://github.com/refined-github/refined-github/issues/3543) <br>
 
-[[GitHub Hovercard] instant access to user/repo/issue/commit info](https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk) <br>
+[[GitHub Hovercard] instant access to user/repo/issue/commit info](https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk) - 하이라이팅만 하는게 아니라 정보 준답시고 창 띄우는게 이거 같아서 일단 설치 삭제함. <br>
 [[Markdown Menu for GitHub]](https://chrome.google.com/webstore/detail/markdown-menu-for-github/jekgocfoijmbgcjejohdgmojaejofdpo) <br>
 [[Table of Contents for GitHub]](https://chrome.google.com/webstore/detail/table-of-contents-for-git/hlkhpeomjgelmljaknhoboeohhgmmgcn) <br>
 [[Github Toc]](https://chrome.google.com/webstore/detail/github-toc/nalkpgbfaadkpckoadhlkihofnbhfhek/related) <br>
 [[Octotree - GitHub code tree] 좌측에 뜨는 접혀있는 파일 트리](https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc) <br>
-[[GitHub Highlight Selected]](https://chrome.google.com/webstore/detail/github-highlight-selected/lhiklbgjcblimmjjflobpncgihagcmbj) - 하이라이팅만 하는게 아니라 정보 준답시고 창 띄워서 설치 삭제함.<br>
+[[GitHub Highlight Selected]](https://chrome.google.com/webstore/detail/github-highlight-selected/lhiklbgjcblimmjjflobpncgihagcmbj) - 하이라이팅만 하는게 아니라 정보 준답시고 창 띄우는게 이거 같아서 일단 설치 삭제함. <br>
 [[Where is it?] 변수 우클릭 where is it 기능](https://chrome.google.com/webstore/detail/where-is-it/cdgnplmebagbialenimejpokfcodlkdm) <br>
 [[File Icons for GitHub and GitLab]](https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe/related) <br>
 [[OctoLenses]](https://chrome.google.com/webstore/detail/octolenses/ghlblfakaklgkdmfejdlffbmpcaidoci) -내 chrome 시작 화면을 바꿔놔서 그냥 설치 삭제 함. <br>
@@ -38,7 +38,7 @@ tags: [github, git_blog, githubio, post, github tips]
 [[Github PR Sanity]](https://chrome.google.com/webstore/detail/github-pr-sanity/elokgifloblclncghmmaonadojjgmhab/related) <br>
 [[Enhanced GitHub] 깃헙 레포 용량, 파일 용량, ...](https://chrome.google.com/webstore/detail/enhanced-github/anlikcnbgdeidpacdbdljnabclhahhmd) <br>
 [[GitHub Downloader]](https://chrome.google.com/webstore/detail/github-downloader/jplmabjbdhggnlhndkdfciacklbjcfel/related) <br>
-[[Sourcegraph]](https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack/related) <br>
+[[Sourcegraph]](https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack/related) - 하이라이팅만 하는게 아니라 정보 준답시고 창 띄워서 설치 삭제함. <br>
 > [[Sourcegraph] 공식 문서](chrome-extension://dgjhfomjieaadpoljlnidmbgkdffpack/after_install.html) <br>
 
 [[GitHub Code Folding] 코드 너무 길 때 줄여서 보기 제공](https://chrome.google.com/webstore/detail/github-code-folding/lefcpjbffalgdcdgidjdnmabfenecjdf) <br>
