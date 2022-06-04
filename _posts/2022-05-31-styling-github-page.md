@@ -23,10 +23,10 @@ tags: [github, git_blog, githubio, post, github tips]
 [[Table of Contents for GitHub]](https://chrome.google.com/webstore/detail/table-of-contents-for-git/hlkhpeomjgelmljaknhoboeohhgmmgcn) <br>
 [[Github Toc]](https://chrome.google.com/webstore/detail/github-toc/nalkpgbfaadkpckoadhlkihofnbhfhek/related) <br>
 [[Octotree - GitHub code tree] 좌측에 뜨는 접혀있는 파일 트리](https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc) <br>
-[[GitHub Highlight Selected]](https://chrome.google.com/webstore/detail/github-highlight-selected/lhiklbgjcblimmjjflobpncgihagcmbj) <br>
+[[GitHub Highlight Selected]](https://chrome.google.com/webstore/detail/github-highlight-selected/lhiklbgjcblimmjjflobpncgihagcmbj) - 하이라이팅만 하는게 아니라 정보 준답시고 창 띄워서 설치 삭제함.<br>
 [[Where is it?] 변수 우클릭 where is it 기능](https://chrome.google.com/webstore/detail/where-is-it/cdgnplmebagbialenimejpokfcodlkdm) <br>
 [[File Icons for GitHub and GitLab]](https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe/related) <br>
-[[OctoLenses] 내 chrome 시작 화면을 바꿔놔서 그냥 설치 삭제 함.](https://chrome.google.com/webstore/detail/octolenses/ghlblfakaklgkdmfejdlffbmpcaidoci) <br>
+[[OctoLenses]](https://chrome.google.com/webstore/detail/octolenses/ghlblfakaklgkdmfejdlffbmpcaidoci) -내 chrome 시작 화면을 바꿔놔서 그냥 설치 삭제 함. <br>
 [[github npm stats]](https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef) <br>
 [[Lovely forks]](https://chrome.google.com/webstore/detail/lovely-forks/ialbpcipalajnakfondkflpkagbkdoib) <br>
 [[Glitter Helper for GitHub]](https://chrome.google.com/webstore/detail/gitter-helper-for-github/apahfabdianobklhejoojcpmoegaolpi/related) <br>
